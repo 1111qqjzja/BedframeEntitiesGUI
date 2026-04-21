@@ -10,7 +10,7 @@ Translation layer that converts textured/custom server-side Polymer blocks and i
 > 
 ## Requirements
 
-- [Geyser-CustomEntities-Fabric](https://github.com/1111qqjzja/Geyser-custom-mods-entities/tree/feature/custom-entities-api)
+- [Geyser-custom-entities-api-fabric](https://github.com/GeyserMC/Geyser/tree/feature/custom-entities-api)
 - [Polymer (or a mod that uses it and its resource pack features)](https://modrinth.com/mod/polymer)
 - [waystones1.21.11](https://modrinth.com/mod/waystones)
 

@@ -8,6 +8,7 @@
     "CustomItemRegistryPopulatorMixin",
     "ElementRotationMixin",
     "EntityTrackerEntryMixin",
+    "GeyserEntityTypeMixin",
     "PolymerBlockResourceUtilsAccessor",
     "PolymerBlockUtilsMixin",
     "PolymerItemMixin",
