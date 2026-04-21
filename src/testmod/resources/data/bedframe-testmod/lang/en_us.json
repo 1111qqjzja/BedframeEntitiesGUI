@@ -1,0 +1,9 @@
+{
+  "itemGroup.bedframe-testmod": "Bedframe Testmod",
+  "item.bedframe-testmod.example_item": "Example Item",
+  "item.bedframe-testmod.vanilla_textured": "Vanilla-Textured Item",
+  "block.bedframe-testmod.example_block": "Example Block",
+  "block.bedframe-testmod.example_log": "Example Log",
+  "block.bedframe-testmod.example_flower": "Example Flower",
+  "block.bedframe-testmod.example_flower_pot": "Example Flower Pot"
+}

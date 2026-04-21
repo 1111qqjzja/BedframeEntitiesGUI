@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "bedframe-testmod:block/example_flower_pot"
+  }
+}

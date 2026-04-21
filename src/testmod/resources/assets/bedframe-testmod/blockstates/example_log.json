@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "bedframe-testmod:block/example_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "bedframe-testmod:block/example_log"
+    },
+    "axis=z": {
+      "model": "bedframe-testmod:block/example_log_horizontal",
+      "x": 90
+    }
+  }
+}

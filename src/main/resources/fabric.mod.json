@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "bedframe",
+	"version": "${version}",
+	"name": "Bedframe",
+	"description": "Translation layer that converts textured/custom server-side Polymer blocks and items to native Bedrock representations.",
+	"authors": [
+		"sylvxa",
+		"tomalbrc",
+		"newlumberjack"
+	],
+	"contact": {
+		"homepage": "https://sylvie.lol/",
+		"sources": "https://github.com/sylvxa/bedframe"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/bedframe/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"lol.sylvie.bedframe.BedframeInitializer"
+		]
+	},
+	"mixins": [
+		"bedframe.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.3",
+		"minecraft": "1.21.11",
+		"java": ">=21",
+		"fabric-api": "*",
+		"geyser-fabric": "*",
+		"polymer-core": "*",
+		"polymer-blocks": "*",
+		"polymer-resource-pack": "*"
+	}
+}

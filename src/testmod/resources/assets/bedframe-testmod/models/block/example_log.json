@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "bedframe-testmod:block/example_log_top",
+    "side": "bedframe-testmod:block/example_log"
+  }
+}

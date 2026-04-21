@@ -1,0 +1,28 @@
+{
+  "required": true,
+  "package": "lol.sylvie.bedframe.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BlockResourceCreatorAccessor",
+    "CustomBlockRegistryPopulatorMixin",
+    "CustomItemRegistryPopulatorMixin",
+    "ElementRotationMixin",
+    "EntityTrackerEntryMixin",
+    "PolymerBlockResourceUtilsAccessor",
+    "PolymerBlockUtilsMixin",
+    "PolymerItemMixin",
+    "PolymerItemUtilsMixin",
+    "PolymerResourcePackUtilsMixin",
+    "VanillaPackProviderMixin",
+    "waystones.SharestoneBlockMixin",
+    "waystones.WarpPlateBlockMixin",
+    "waystones.WarpScrollItemMixin",
+    "waystones.WarpStoneItemMixin",
+    "waystones.WaystoneBlockBaseMixin",
+    "waystones.WaystoneBlockBasePlacedTailMixin",
+    "waystones.WaystoneBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

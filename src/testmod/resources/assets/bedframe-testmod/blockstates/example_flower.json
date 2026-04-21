@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bedframe-testmod:block/example_flower"
+    }
+  }
+}

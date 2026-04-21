@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "bedframe-testmod",
+	"version": "1.0.0",
+	"name": "Bedframe Testmod",
+	"description": "Hello world!",
+	"authors": [
+		"sylvxa"
+	],
+	"contact": {
+		"homepage": "https://sylvie.lol/",
+		"sources": "https://github.com/sylvxa/bedframe"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/bedframe-testmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"lol.sylvie.testmod.Testmod"
+		]
+	},
+	"mixins": [
+		"bedframe-testmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.3",
+		"java": ">=21",
+		"fabric-api": "*",
+		"bedframe": "*"
+	}
+}
